@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- *  @purpose Login Example Using Servlet and JSP 
+ *  @purpose Example Using Servlet and JSP 
  *  @author  Ankita Unhalkar
  *  @version 1.0
  *  @since   01-07-2018
